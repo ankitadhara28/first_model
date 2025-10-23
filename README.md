@@ -10,4 +10,4 @@ Built using Python and linear regression.
 ## Dataset
 - Input: Area of a property  
 - Output: Predicted Price
-# first_model
+
