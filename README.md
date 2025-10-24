@@ -1,13 +1,30 @@
-# Price Prediction Model
+# StartToModel Project
 
-This is a simple machine learning model that predicts prices based on area,number of bedrooms,age.  
-Built using Python and linear regression.
+This repository contains a series of small ML projects I’m building while learning machine learning.
 
-## How to Use
-1. Open the notebook in Google Colab.  
-2. Run the cells to train the model and make predictions.  
+---
 
-## Dataset
-- Input: Area of a property  
-- Output: Predicted Price
+## 📘 Part 1 – Predicting Prices Using Area
+*File:* StartToModel_part1.ipynb  
+*Description:*  
+A simple linear regression model that predicts house prices based only on the area.
 
+*How to Run:*
+1. Open StartToModel_part1.ipynb
+2. Run all cells in order
+
+---
+
+## 📗 Part 2 – Predicting Prices Using Area, Bedrooms, and Age
+*File:* StartToModel_part2.ipynb  
+*Description:*  
+An enhanced model that predicts prices using area, number of bedrooms, and age of the house.
+
+*How to Run:*
+1. Open StartToModel_part2.ipynb
+2. Run all cells in order
+
+---
+
+## 🧠 Future Parts
+I’ll keep adding more parts as I explore new features and algorithms.
