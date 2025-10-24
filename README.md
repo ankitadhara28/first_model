@@ -10,7 +10,7 @@ This repository contains a series of small ML projects I’m building while lear
 A simple linear regression model that predicts house prices based only on the area.
 
 *How to Run:*
-1. Open StartToModel_part1.ipynb
+1. Open `start_to_model.ipynb`
 2. Run all cells in order
 
 ---
@@ -21,7 +21,7 @@ A simple linear regression model that predicts house prices based only on the ar
 An enhanced model that predicts prices using area, number of bedrooms, and age of the house.
 
 *How to Run:*
-1. Open StartToModel_part2.ipynb
+1. Open `start_to_model_2.ipynb`
 2. Run all cells in order
 
 ---
@@ -34,8 +34,8 @@ An enhanced model that predicts prices using area, number of bedrooms, and age o
 A practical machine learning model that predicts employee salaries based on experience, test performance, and interview scores. The dataset includes text-based experience values converted into numbers using the `word2number` library for accurate predictions.
 
 **How to Run:**  
-Open `StartToModel_part3.ipynb`  
-Run all cells step by step to view data cleaning, training, and prediction results
+1.Open `StartToModel_part3.ipynb`  
+2.Run all cells step by step to view data cleaning, training, and prediction results
 
 
 ---
