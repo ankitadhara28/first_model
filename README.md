@@ -1,6 +1,6 @@
 # Price Prediction Model
 
-This is a simple machine learning model that predicts prices based on area.  
+This is a simple machine learning model that predicts prices based on area,number of bedrooms,age.  
 Built using Python and linear regression.
 
 ## How to Use
