@@ -17,6 +17,7 @@ A simple linear regression model that predicts house prices based only on the ar
 
 ## 📗 Part 2 – Predicting Prices Using Area, Bedrooms, and Age
 *File:* start_to_model_2_part2.ipynb  
+
 *Description:*  
 An enhanced model that predicts prices using area, number of bedrooms, and age of the house.
 
