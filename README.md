@@ -26,14 +26,17 @@ An enhanced model that predicts prices using area, number of bedrooms, and age o
 
 ---
 
-## 📘 Part 3 – Predicting Salaries Using Experience, Test Score, and Interview Score
-*File:* start_to_model_3.ipynb
-*Description:*
-A practical machine learning model that predicts employee salaries based on experience, test performance, and interview scores. The dataset includes text-based experience values converted into numbers using the word2number library for accurate predictions.
+## 📘Part 3 – Predicting Salaries Using Experience, Test Score, and Interview Score
 
-*How to Run:*
-1.Open StartToModel_part3.ipynb
-2.Run all cells step by step to view data cleaning, training, and prediction results
+**File:** start_to_model_3.ipynb
+
+**Description:**  
+A practical machine learning model that predicts employee salaries based on experience, test performance, and interview scores. The dataset includes text-based experience values converted into numbers using the `word2number` library for accurate predictions.
+
+**How to Run:**  
+Open `StartToModel_part3.ipynb`  
+Run all cells step by step to view data cleaning, training, and prediction results
+
 
 ---
 
